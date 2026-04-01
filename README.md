@@ -8,3 +8,4 @@ Career Goals:
 Deliverables:
 * PDF of my internship application spreadsheet
 * My most recent Resume
+* Reflection markdown
